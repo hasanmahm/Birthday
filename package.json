@@ -1,0 +1,24 @@
+{
+    "name": "birthday",
+    "version": "1.0.0",
+    "description": "Birthday greetings..",
+    "main": " ",
+    "scripts": {
+        "server-node": "http-server -p 8081"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hasanmahm/Birthday.git"
+    },
+    "keywords": [
+        "Birthday"
+    ],
+    "author": "Hasan Mahmud",
+    "license": "WTFPL",
+    "bugs": {
+        
+    },
+      "dependencies": {
+        "http-server": "^0.11.1"
+    }
+}
